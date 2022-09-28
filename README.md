@@ -1,2 +1,2 @@
 # wwwbanderogus
-Project together with GOIT project "Make a website"
+Project "Make a website" together with GOIT
